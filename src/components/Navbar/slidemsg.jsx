@@ -1,5 +1,5 @@
 import React from "react";
-import "./Slidemsg.css";
+import "./slidemsg.css";
 
 const Slidemsg = () => {
   const messages = "🚚 Free Delivery above ₹499 | 🔥 Sale Live - Up to 50% OFF | 💯 100% Original Products | 🔄 Easy 7 Days Return | ⚡ Fast Delivery | 🔒 Secure Payments | 🎁 Exciting Offers Everyday";
